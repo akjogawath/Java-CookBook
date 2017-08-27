@@ -1,0 +1,22 @@
+import java.util.Arrays;
+
+public class TestArray3 {
+public static void main(String[] args) {
+	
+	//Sorting an Array using Sort Method
+	int[] unsorted = {7,2,0,5,9,10};
+	Arrays.sort(unsorted);
+	for(int i=0;i<unsorted.length;i++) {
+		System.out.println(unsorted[i]);
+	}
+	//BinarySearch
+	int d=Arrays.binarySearch(unsorted,9);
+	System.out.println(d);
+	
+	//Fill Method
+	Arrays.fill(unsorted, 5);
+	for(int i=0;i<unsorted.length;i++) {
+		System.out.println(unsorted[i]);
+	}
+}
+}
