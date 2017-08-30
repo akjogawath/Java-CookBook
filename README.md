@@ -1,8 +1,8 @@
 # Java-CookBook
 Anyone who wants to learn Java can kick start using this Java Cookbook.
 
-Working with Arrays.
+[1] Working with Arrays.
 
-Working with DateTime and Gregorian Calendar Class.
+[2] Working with DateTime and Gregorian Calendar Class.
 
-Understanding Swapping in Java.
+[3] Understanding Swapping in Java.
